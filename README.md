@@ -1,4 +1,4 @@
-# Image_Watermark
+# Image Watermark
 This app can open your image, add and paste watermark in it. Watermark can be image or/and text.
 
 V 1.0 - Can add watermark to image save it<br>
